@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#40E0D0</color>
+    <color name="colorPrimaryDark">#40E0D0</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorbmqm">#008B8B</color>
+    <color name="colorBorder">#dddddd</color>
+    <color name="ggfx_dark_blue">#1D72F1</color>
+    <color name="red">#F22100</color>
+    <color name="colorBackground">#eeeeee</color>
+</resources>
